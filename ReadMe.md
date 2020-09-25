@@ -10,5 +10,5 @@ enjoy and happy coding
 
 donations welcome **[here](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Z3HWZPMEKBVVU&source=url)**
 
-![](Rsrc/barcode1.jpg)
+![](Rsrc/barcodeScreenshot1.jpg)
 
