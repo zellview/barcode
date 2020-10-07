@@ -8,6 +8,6 @@ on your android-phone.
 
 ## enjoy and happy coding
 
-![](Rsrc/barcodeScreenshot1.jpg)
+![](Rsrc/barcode3.png)
 
 
