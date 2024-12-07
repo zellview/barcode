@@ -1,11 +1,11 @@
 ## zellviewbarcode
 
-is a simple android-app written in Blockly for [AppInventor2](http://ai2.appinventor.mit.edu)
+is a simple android-app written in Blockly created with  [MIT-AppInventor2](http://ai2.appinventor.mit.edu)
 showing the use of barcodereader.
 
-You can download the project-file .aia [here](https://github.com/zellview/barcode/blob/master/barcode.aia)
+To download the install file .apk click [here](https://raw.githubusercontent.com/zellview/barcode/master/zellviewBarcode.apk)
 
-and the install file .apk [here](https://github.com/zellview/barcode/blob/master/barcode.apk)
+To download the project-file .aia [here](https://raw.githubusercontent.com/zellview/barcode/master/zellviewBarcode.aia)
 
 You will need [companion app](https://play.google.com/store/apps/details?id=edu.mit.appinventor.aicompanion3&hl=de)
 on your android-phone.
@@ -13,5 +13,7 @@ on your android-phone.
 ## enjoy and happy coding
 
 ![](Rsrc/barcode3.png)
+
+(c) 2024 by zellview media
 
 
